@@ -1577,40 +1577,71 @@
       <links>
         <slidelink slideid="_player.6OEmFglBRg1" displaytext="Start " expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6OEmFglBRg1.6fB9emZb8TB" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6OEmFglBRg1.5WrP7hM1ktE" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6OEmFglBRg1.6PR7G8VQfi3" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6OEmFglBRg1.6SU6bnjSqvo" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6OEmFglBRg1.5WrP7hM1ktE" displaytext="Intro" expand="false" type="slide" />
+            <slidelink slideid="_player.6OEmFglBRg1.6fB9emZb8TB" displaytext="Particpant Name" expand="false" type="slide" />
+            <slidelink slideid="_player.6OEmFglBRg1.6PR7G8VQfi3" displaytext="Select your device " expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6QERSFmxEN3" displaytext="Touch devices" expand="true" type="slide">
+        <slidelink slideid="_player.6QERSFmxEN3" displaytext="Module2" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6QERSFmxEN3.5gwjl4MevBY" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6fCPFwyUVtP" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.5nMVOKgT7Iu" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.5oIsPBlKfGN" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6XC8wCN3iK5" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6G5anVsGd4D" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6RmzPBwSUUa" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6anVdZTajLi" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6fYVx9qcfrN" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6OpY9X9AwGH" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.5Z8SdnuJZnq" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6nILElB3TTn" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6CXJbMUpZys" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.5cRRkCbRWsl" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6jUbgZLbYnx" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6FR2ntByNwt" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.66zxqcZoPQ6" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.5b4JDX3rDZx" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.5bhKz4Mjyn7" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.5jcs88yWaD3" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.5gwjl4MevBY" displaytext="1" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6fCPFwyUVtP" displaytext="2" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.5gRW0vmYqTR" displaytext="3 A" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.5nMVOKgT7Iu" displaytext="3 B" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.5oIsPBlKfGN" displaytext="4" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6XC8wCN3iK5" displaytext="5" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6G5anVsGd4D" displaytext="6" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6RmzPBwSUUa" displaytext="7" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6anVdZTajLi" displaytext="9" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6fYVx9qcfrN" displaytext="8" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6OpY9X9AwGH" displaytext="10" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.5Z8SdnuJZnq" displaytext="12" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6nILElB3TTn" displaytext="11" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6CXJbMUpZys" displaytext="13" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.5cRRkCbRWsl" displaytext="14" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6jUbgZLbYnx" displaytext="15" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6FR2ntByNwt" displaytext="16" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.66zxqcZoPQ6" displaytext="17" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.5b4JDX3rDZx" displaytext="18" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.5bhKz4Mjyn7" displaytext="19" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.5jcs88yWaD3" displaytext="20" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.5cyguYid28K" displaytext="Pick One" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.6l7zb9ZI88h" displaytext="Pick One" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.5fOCuzIFxLy" displaytext="Pick One" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6fctx4c5Dfe" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6jP05hN1j87" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6pBPB0MoEcV" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6fctx4c5Dfe" displaytext="24" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6jP05hN1j87" displaytext="25" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6pBPB0MoEcV" displaytext="26" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6avwZ6ByK2n" displaytext="Module2 (PC)" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6avwZ6ByK2n.6YzO9TqeMf8" displaytext="1" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.60lV62t0lxk" displaytext="2" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6HC7HPxIsWL" displaytext="3 A" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.61uIlbtooeL" displaytext="3 B" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.66dXhnQvoy6" displaytext="4" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.5r0aLWLN8sI" displaytext="5" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.5ZFxs2cxcE2" displaytext="6" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6ST9lxsbJ9L" displaytext="7" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.608ViynDBT5" displaytext="8" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6CQtc2GWtP6" displaytext="9" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.5zjXifJKtCF" displaytext="10" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.660D6fLUSmo" displaytext="11" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6l1vskhQkmD" displaytext="12" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.697yC4pG9gu" displaytext="13" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6IkrEu5Ey2T" displaytext="14" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6LI9o8BB6jU" displaytext="15" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.66SVmASqJLv" displaytext="16" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6KhjNy0wYwl" displaytext="17" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6CNyVSPnMio" displaytext="18" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.5zplj8c7dAm" displaytext="19" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.5iPaYYAsWWE" displaytext="20" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6Rfb1sNZcdX" displaytext="Pick One" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6MCma2FGnTf" displaytext="Pick One" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6oZ4CrNEpW7" displaytext="Pick One" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6j3tpGDryjZ" displaytext="24" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6NeibNLh7x1" displaytext="25" expand="false" type="slide" />
+            <slidelink slideid="_player.6avwZ6ByK2n.6cyqZIPsNlG" displaytext="26" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
@@ -2074,6 +2105,476 @@
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
       <slidetranscript slideid="6QERSFmxEN3.6pBPB0MoEcV" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="19">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Thank you for your time, and looking forward to seeing you in the next module." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.6YzO9TqeMf8" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Hello Again, my freind. are you Excited to continue our journey to build your Negotiation Skills!"&gt;
+        &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.60lV62t0lxk" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Before we start, I’d like to empathize with your role at Jamjoom Pharma. You are a great asset to the organization, and it considers you a success partner. it puts a huge trust in you to leverage profitability and growth. Therefore, and in order to support you in your mission, Jamjoom's Academy offers you this course to sharpen your negotiation skills." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.6HC7HPxIsWL" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="20">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Revision on Module 1 will include mentioning the key concepts as well as having some questions on them" /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.61uIlbtooeL" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Let’s See our roadmap for this and the next module, &amp;#xA;"&gt;
+        &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="In today’s module we will learn&amp;#xA;"&gt;
+        &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="about Negotiation Triangle, How to Build the strong Base for your negotiation &amp;#xA;"&gt;
+        &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="How Can you improve your Communication and listening Skills and we will navigate through persuasion techniques. &amp;#xA;"&gt;
+        &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="And for the next one, you will get involved in &amp;#xA;"&gt;
+        &lt;Style FontFamily="Bell MT" FontIsBold="True" FontIsUnderline="True" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Building your own Conflict Resolution Skills. in addition  "&gt;
+        &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="We will offer you powerful Negotiation Tactics Last but not least, get to know the art of planning for successful, Profitable Close"&gt;
+        &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.66dXhnQvoy6" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="In any Negotiation, it is critical to Keep the balance between Relationship and The Need. While building and maintaining your Own Credibility. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.5r0aLWLN8sI" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="And in order to do so, we must make perfect communication. How to Make perfect Communication? let’s discuss in more details" /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.5ZFxs2cxcE2" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The first Step in establishing a Powerful Communication is to identify roles &amp;amp; responsibilities of each one in the negotiation loop &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Then we should be aware of communication filters &amp;amp; ask ourself if our message is clear or it can be understood in a wrong way &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Final Step is to demonstrate powerful &amp;amp; effective questions, maintain good listening skills to build &amp;amp; maintain strong relationship with the other parties &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.6ST9lxsbJ9L" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Unfortunately, Communication is not a piece of cake all the time, there might be some barriers such as: &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Age, communicating with an old man is not the same as with a young one &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Cultural, different in cultures may sometimes drive us to reshape our message in order to be clear to other parties&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Perceptions, previous Perceptions sometimes may be an obstacle &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Education &amp;amp; Experience, the level of Education &amp;amp; experience should be considered as well and may influence the language that we will deliver our message with  &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Agendas, it is important to try to explore what other parties' true agenda or needs in order to customize our message for him &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="All these factors should be considered when we are preparing to communicate with others, in order to make an effective communication " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.608ViynDBT5" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Preparation Done, Now Let’s communicate let me Start with a question for you? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Do you think that we are only communicating with words? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.6CQtc2GWtP6" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Communication is one of our complex function, In Fact it begins from how we look, Look at me now for example, what do you think about me? Do I look Professional to you? umm, it Seems I’m not very elegant, right? Press the button &amp;amp; let me groom myself? &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="How about now? I think this demonstrates to you the importance of how we look in communication, especially in the first meeting, remember what the famous quote says “ there is no second chance for a first impression”&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="But it is not only How we look &amp;amp; What we Say, How we Say it is crucial &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Oh, I just realize that I didn’t Greet you appropriately, Please Let me Greet you and give me your feedback on how well my greeting was. &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.5zjXifJKtCF" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The first Step in establishing a Powerful Communication is to identify roles &amp;amp; responsibilities of each one in the negotiation loop &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Then we should be aware of communication filters &amp;amp; ask ourself if our message is clear or it can be understood in a wrong way &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Final Step is to demonstrate powerful &amp;amp; effective questions, maintain good listening skills to build &amp;amp; maintain strong relationship with the other parties &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.660D6fLUSmo" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The reason why most people feel uncomfortable was that I was telling you that I am happy to see you with my tongue while my facial expression said the opposite or at least didn't confirm what I was saying. and that is why the way we are talking, our body language and our facial expression are very important when making a good communication with others " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.697yC4pG9gu" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Now, Let’s  Summarize what we have just discussed about how we communicate with others in steps &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="1- How we look &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="2- What we say &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="3- How we Say it&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="4- What we do " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.6IkrEu5Ey2T" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Now let’s view the overall picture or what we called the Communication model. &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Communication is all about a Sender: the person who is willing to deliver his message.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="He has an idea and he is willing to communicate it with the other person or the receiver. &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Before Sender sends his message it will pass through a filter first to formulate the message in the best way possible. &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The message will also pass through another filter in the receiver's mind where it will be processed.  and depending on how clear was the message and how effective it was, Receiver determines how he understands it &amp;amp; how he will respond &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Now the Receiver will react and send back his feedback. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.6LI9o8BB6jU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Now let’s view the overall picture or what we called the Communication model. &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Communication is all about a Sender: the person who is willing to deliver his message.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="He has an idea and he is willing to communicate it with the other person or the receiver. &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Before Sender sends his message it will pass through a filter first to formulate the message in the best way possible. &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The message will also pass through another filter in the receiver's mind where it will be processed.  and depending on how clear was the message and how effective it was, Receiver determines how he understands it &amp;amp; how he will respond &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Now the Receiver will react and send back his feedback. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.66SVmASqJLv" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Congratulations, You are now ready to communicate effectively, let me give you useful tips that Great negotiators use when they are communicating with others &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The Secret of Great communicators is, they don’t focus on position, instead they focus on Interest &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="what I mean is instead of wasting time on what th other parties want they ask themselves why? What is the reasons underlying positions? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;amp; Instead of being influenced by power &amp;amp; rights they tend to raise on needs, hopes &amp;amp; concerns &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="And the ultimate objective is not persuade others but to collaborate with others which will results in Starting a Win-Win Comfortable discussion &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.6KhjNy0wYwl" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Center" ListLevel="1" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Lets watch a video of Brian Tracy, the author of eat the frog  that will guide you to reach your full potential in persuasion . click in the video Icon to watch the video &amp;#xA;"&gt;
+        &lt;Style ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Center" ListLevel="1" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Center" ListLevel="1" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Center" ListLevel="1" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Note : The video will be interactive (show some questions along the video"&gt;
+        &lt;Style ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.6CNyVSPnMio" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="14">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="An interactive case on negotiation " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.5zplj8c7dAm" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="15">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="This is a place holder video that will be replaced with an the created video about the Library Case Study" /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.5iPaYYAsWWE" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="16">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Now, It is Quiz time .. ." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.6j3tpGDryjZ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="17">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="In this slide the instructor will provide a summary of the key messages in this part. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.6NeibNLh7x1" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="18">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="In this slide, the instructor will inform learners on what will they learn in the next modules. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6avwZ6ByK2n.6cyqZIPsNlG" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="19">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
