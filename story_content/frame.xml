@@ -1567,6 +1567,7 @@
     <font name="Bell MT">
       <files>
         <file bold="false" italic="false" />
+        <file bold="true" italic="false" />
       </files>
     </font>
   </fonts>
@@ -1642,7 +1643,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Let’s See our roadmap, &amp;#xA;"&gt;
+      &lt;Span Text="Let’s See our roadmap for this and the next module, &amp;#xA;"&gt;
         &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -1658,7 +1659,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="What is Negotiation Triangle, How to Build the strong Base&amp;#xA;"&gt;
+      &lt;Span Text="about Negotiation Triangle, How to Build the strong Base for your negotiation &amp;#xA;"&gt;
         &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -1666,7 +1667,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="How Can you improve your Communication and listening Skills&amp;#xA;"&gt;
+      &lt;Span Text="How Can you improve your Communication and listening Skills and we will navigate through persuasion techniques. &amp;#xA;"&gt;
         &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -1674,7 +1675,21 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="How to Build your own Conflict Resolution Skills &amp;#xA;"&gt;
+      &lt;Span Text="And for the next one, you will get involved in &amp;#xA;"&gt;
+        &lt;Style FontFamily="Bell MT" FontIsBold="True" FontIsUnderline="True" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Building your own Conflict Resolution Skills. in addition  "&gt;
+        &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="We will offer you powerful Negotiation Tactics Last but not least, get to know the art of planning for successful, Profitable Close"&gt;
+        &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
         &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -1682,7 +1697,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="We will offer you powerful Negotiation Tactics&amp;#xA;"&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
         &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -1690,7 +1705,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Last but not least, get to know the art of planning for successful, Profitable Close"&gt;
+      &lt;Span Text=""&gt;
         &lt;Style FontFamily="Bell MT" ForegroundColor="#1E344B" LinkColor="#1E344B" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
